@@ -48,11 +48,10 @@ A **fully PHP-based website** for managing course structures, displaying availab
 Fork, create a pull request, or open an issue for improvements.
 
 ## 📞 Contact
-For queries, reach out via **[your email or website link]**.
+For queries, reach out via **[sid.website11@gmail.com]**.
 
 ---
 
 🚀 **Built entirely with PHP!**
 ```
 
-This README now correctly highlights that **both the frontend and backend use PHP**. Let me know if you need more refinements! 😊
