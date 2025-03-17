@@ -14,7 +14,7 @@ A **fully PHP-based website** for managing course structures, displaying availab
 ## 🚀 Installation Guide
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/siddhesh-wagh/classes-website.git
    ```
 2. **Place Files in a Local Server**  
    - Use **XAMPP** or **WAMP** and move the files to `htdocs/`  
@@ -23,7 +23,7 @@ A **fully PHP-based website** for managing course structures, displaying availab
    - Open **XAMPP/WAMP**, start Apache (and MySQL if needed)  
 
 4. **Run the Project in Browser**  
-   - Open `http://localhost/project-folder/index.php`  
+   - Open `http://localhost/classes-website/index.php`  
 
 ## 📂 Folder Structure
 ```
