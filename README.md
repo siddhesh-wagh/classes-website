@@ -1,16 +1,14 @@
-Thanks for sharing the structure! Based on this, I'll update the **README.md** to reflect your folder and file organization.  
 
-### **Updated README.md:**
 ```md
 # PHP Course Website
 
-A **PHP-based website** for managing course structures, displaying available courses, and providing information via the about and contact pages.
+A **fully PHP-based website** for managing course structures, displaying available courses, and providing information through an about page, contact section, and more.
 
 ## 🌟 Features
 - 📚 Course Structure Management  
 - 📄 About & Contact Pages  
-- 🏫 Course Listing  
-- 🎨 CSS Styling for Better UI  
+- 🏫 Course Listings  
+- 🎨 PHP-Based Frontend and Backend  
 - 📂 Organized Folder Structure  
 
 ## 🚀 Installation Guide
@@ -19,29 +17,32 @@ A **PHP-based website** for managing course structures, displaying available cou
    git clone https://github.com/yourusername/repository-name.git
    ```
 2. **Place Files in a Local Server**  
-   - Use **XAMPP** or **WAMP** and place files in `htdocs/`  
+   - Use **XAMPP** or **WAMP** and move the files to `htdocs/`  
 
-3. **Run the Application**  
-   - Open `index.php` in a browser  
+3. **Start Apache Server**  
+   - Open **XAMPP/WAMP**, start Apache (and MySQL if needed)  
+
+4. **Run the Project in Browser**  
+   - Open `http://localhost/project-folder/index.php`  
 
 ## 📂 Folder Structure
 ```
 /project-folder
-  ├── cs_submit/     # Course submission-related files
-  ├── css/           # Stylesheets
+  ├── cs_submit/     # Course submission files
+  ├── css/           # CSS files (can be PHP-generated)
   ├── images/        # Image assets
   ├── about.php      # About page
   ├── contact.php    # Contact page
-  ├── course.php     # Course details
+  ├── course.php     # Course listing page
   ├── index.php      # Homepage
-  ├── userinfo.php   # User information handling
+  ├── userinfo.php   # Handles user information
   ├── README.md      # Documentation
 ```
 
 ## 🛠️ Technologies Used
-- **PHP** – Backend  
-- **HTML, CSS** – Frontend  
-- **MySQL (if applicable)** – Database  
+- **PHP** – Handles both frontend and backend  
+- **HTML, CSS** – Integrated with PHP for dynamic UI  
+- **MySQL (if applicable)** – Used for storing data  
 
 ## 💡 Contribution
 Fork, create a pull request, or open an issue for improvements.
@@ -51,7 +52,7 @@ For queries, reach out via **[your email or website link]**.
 
 ---
 
-🚀 **Enjoy building with PHP!**
+🚀 **Built entirely with PHP!**
 ```
 
-This README aligns with your project structure. Let me know if you want any changes! 😊
+This README now correctly highlights that **both the frontend and backend use PHP**. Let me know if you need more refinements! 😊
